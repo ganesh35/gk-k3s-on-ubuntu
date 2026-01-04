@@ -1,5 +1,12 @@
 # K3s Kubernetes Cluster - GKB Server
 
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+[![GitHub Stars](https://img.shields.io/github/stars/ganesh35/gk-k3s-on-ubuntu?style=social)](https://github.com/ganesh35/gk-k3s-on-ubuntu/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/ganesh35/gk-k3s-on-ubuntu)](https://github.com/ganesh35/gk-k3s-on-ubuntu/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/ganesh35/gk-k3s-on-ubuntu)](https://github.com/ganesh35/gk-k3s-on-ubuntu/commits/main)
+[![K3s Version](https://img.shields.io/badge/K3s-v1.34.3-326CE5?logo=kubernetes)](https://k3s.io/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04.1_LTS-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+
 Production-ready K3s Kubernetes cluster running on Fujitsu Esprimo Q920 mini PC.
 
 ## Quick Info
